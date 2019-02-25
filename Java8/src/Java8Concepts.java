@@ -11,8 +11,8 @@ public class Java8Concepts{
         2. For Each
         3. Default and static methods
         4. Streams*/
-        //functInterfAndLambdaExp();
-        //forEachExample();
+        functInterfAndLambdaExp();
+        forEachExample();
         streamsDemo();
     }
     public static void forEachExample(){
